@@ -15,3 +15,5 @@ Detects forest fires through satellite images.
 *If font error appears, run ``` expo install 'expo-font' ```
 
 Thanks for visiting :)
+
+![Charmander](https://user-images.githubusercontent.com/59063950/91480647-4aacab80-e871-11ea-89ee-8746d4eb76f9.png)
